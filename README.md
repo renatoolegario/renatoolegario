@@ -17,7 +17,7 @@
 
 ## Stack técnica
 
-Tecnologias e frentes de atuação organizadas a partir da seção de stack do [olegario.dev](https://olegario.dev).
+Tecnologias e frentes de atuação organizadas por categoria.
 
 ### Frontend
 
