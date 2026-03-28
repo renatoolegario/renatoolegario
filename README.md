@@ -32,12 +32,8 @@ Tecnologias e frentes de atuação organizadas por categoria.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![wa-js](https://img.shields.io/badge/wa--js-111827?style=for-the-badge)
-![Baileys](https://img.shields.io/badge/Baileys-0F172A?style=for-the-badge)
-![Ticketz](https://img.shields.io/badge/Ticketz-1F2937?style=for-the-badge)
 ![node-pg-migrate](https://img.shields.io/badge/node--pg--migrate-334155?style=for-the-badge)
 ![Crypto](https://img.shields.io/badge/Crypto-0B1120?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-111827?style=for-the-badge)
 
 ### Mapas & Geoprocessamento
 
@@ -73,7 +69,5 @@ Tecnologias e frentes de atuação organizadas por categoria.
 
 ### Inteligência Artificial
 
-![Classificação](https://img.shields.io/badge/Classifica%C3%A7%C3%A3o-0F172A?style=for-the-badge)
-![Geração](https://img.shields.io/badge/Gera%C3%A7%C3%A3o-1D4ED8?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-059669?style=for-the-badge)
