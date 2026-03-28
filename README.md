@@ -77,7 +77,3 @@ Tecnologias e frentes de atuação organizadas a partir da seção de stack do [
 ![Geração](https://img.shields.io/badge/Gera%C3%A7%C3%A3o-1D4ED8?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-059669?style=for-the-badge)
-
-## Stack do portfólio
-
-O próprio [olegario.dev](https://olegario.dev) foi construído com `Next.js 15`, `React 19`, `Tailwind CSS`, `lucide-react`, `react-icons`, `PostCSS`, `Autoprefixer` e `ESLint`.
