@@ -17,7 +17,7 @@
 
 ## Stack técnica
 
-### Infraestrutura
+### Stack Principal
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -41,13 +41,13 @@
 ![Embeddings](https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge)
 ![Automação](https://img.shields.io/badge/Automa%C3%A7%C3%A3o-059669?style=for-the-badge)
 
-### DevOps
+### Infra & Provedores
 
-![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Neon Serverless](https://img.shields.io/badge/Neon%20Serverless-00E699?style=for-the-badge)
 ![Contabo VPS](https://img.shields.io/badge/Contabo%20VPS-1E3A8A?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge)
